@@ -1,0 +1,19 @@
+{
+  "name": "greenifylbg",
+  "version": "1.0.0",
+  "description": "carbon footprint tracker app for bank transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma7ammad/GreenifyLBG.git"
+  },
+  "author": "ma7ammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma7ammad/GreenifyLBG/issues"
+  },
+  "homepage": "https://github.com/ma7ammad/GreenifyLBG#readme"
+}
